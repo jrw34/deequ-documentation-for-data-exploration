@@ -1,5 +1,6 @@
 # deequ-documentation-for-data-exploration
 After attempting to build scala scripts employing deequ tools, it appeared that some documentation would be beneficial.
+This project is in no way affiliated with AWS or deequ, it is entirely to be helpful for those who appreciate documentation. 
 
 ---
 Goals of this documentation
